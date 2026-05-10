@@ -1,16 +1,13 @@
-## Hi there 👋
+Kartik Tharesha
+Full-Stack Developer | ICT Engineering @ VGEC
 
-<!--
-**kartiktharesha/kartiktharesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Finished DevMatch: A student collaboration tool for team building.
 
-Here are some ideas to get you started:
+🛠 Working with: Node.js, MongoDB, Express, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Focus: Backend logic, API design, and Database relation .
+
+🔗 [Link to LinkedIn]
+
+LinkedIn: www.linkedin.com/in/kartik-tharesha-2074582b8
+
