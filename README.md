@@ -5,7 +5,7 @@ Full-Stack Developer | ICT Engineering @ VGEC
 
 🛠 Working with: Node.js, MongoDB, Express, and JavaScript.
 
-📈 Focus: Backend logic, API design, and Database relation .
+📈 Focus: Backend logic, API design, and Database Design .
 
 🔗 [Link to LinkedIn]
 
